@@ -1,4 +1,5 @@
 <?php
 print "Hello, World! php version is " . PHP_VERSION . "\n";
-print " A change has happened\n";
+print " A change has happened<br>";
+print " change to test console<br>";
 ?>
